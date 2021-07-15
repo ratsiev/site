@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
-title: Ratsiev
 description: "I'm an independent game developer."
-logo: gladiator.png
+logo: "/gladiator.png"
+author:
+  name: Ratsiev
+  twitter: "https://twitter.com/ratsiev_"
